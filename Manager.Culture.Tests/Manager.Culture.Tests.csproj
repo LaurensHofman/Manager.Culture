@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Syntra.VDOAP.CProef.Manager.Culture.Tests</AssemblyName>
+    <RootNamespace>Syntra.VDOAP.CProef.Manager.Culture.Tests</RootNamespace>
+  </PropertyGroup>
+
+</Project>
